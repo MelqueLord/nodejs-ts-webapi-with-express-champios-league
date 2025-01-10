@@ -1,0 +1,85 @@
+[
+    
+    {
+        "id": 1,
+        "name": "Real Madrid",
+        "country": "Spain"
+    },
+    {
+        "id": 2,
+        "name": "Manchester City",
+        "country": "England"
+    },
+    {
+        "id": 3,
+        "name": "Bayern Munich",
+        "country": "Germany"
+    },
+    {
+        "id": 4,
+        "name": "Paris Saint-Germain",
+        "country": "France"
+    },
+    {
+        "id": 5,
+        "name": "Barcelona",
+        "country": "Spain"
+    },
+    {
+        "id": 6,
+        "name": "AC Milan",
+        "country": "Italy"
+    },
+    {
+        "id": 7,
+        "name": "Inter Milan",
+        "country": "Italy"
+    },
+    {
+        "id": 8,
+        "name": "Chelsea",
+        "country": "England"
+    },
+    {
+        "id": 9,
+        "name": "Benfica",
+        "country": "Portugal"
+    },
+    {
+        "id": 10,
+        "name": "Borussia Dortmund",
+        "country": "Germany"
+    },
+    {
+        "id": 11,
+        "name": "Atletico Madrid",
+        "country": "Spain"
+    },
+    {
+        "id": 12,
+        "name": "Ajax",
+        "country": "Netherlands"
+    },
+    {
+        "id": 13,
+        "name": "Napoli",
+        "country": "Italy"
+    },
+    {
+        "id": 14,
+        "name": "RB Leipzig",
+        "country": "Germany"
+    },
+    {
+        "id": 15,
+        "name": "FC Porto",
+        "country": "Portugal"
+    },
+    {
+        "id": 16,
+        "name": "Sevilla",
+        "country": "Spain"
+    }
+
+   
+]
